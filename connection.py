@@ -7,9 +7,9 @@ api = Myjdapi()
 jd_device = None
 
 # These are the credentials and device name. You should ideally load them from a secure source or environment variables.
-EMAIL = "xxx"
-PASSWORD = "xxx"
-DEVICE_NAME = "xxx"
+EMAIL = "rami.raghfan@gmail.com"
+PASSWORD = "xxxx"
+DEVICE_NAME = "xxxx"
 
 MAX_RETRIES = 3
 RETRY_DELAY = 5
